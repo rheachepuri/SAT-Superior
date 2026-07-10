@@ -24,4 +24,3 @@ Sections (concise):
 6. Future improvements
 7. Credits
 
-Use GitHub Markdown formatting with headings, bullet points, and emojis where appropriate. Make it look like a polished open-source project.
