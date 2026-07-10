@@ -1,5 +1,4 @@
 # SAT-Superior
-Write a professional GitHub README for my AI education project. Friendly but polished tone (~150 words).
 
 Project: SAT Superior
 
@@ -15,12 +14,6 @@ Features:
 
 Stack:
 Python, OpenAI API, Streamlit
-
-Live demo (optional):
-[Insert link]
-
-GitHub repository:
-[Insert GitHub link]
 
 Sections (concise):
 1. Project title + one-sentence summary
